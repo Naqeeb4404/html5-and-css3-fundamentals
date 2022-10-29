@@ -7,8 +7,8 @@
 
   <body>
     font-size
-    <h1>Ez Gaming</h1>
-    <h2>Ez Gaming</h2>
+    <h1>cofee</h1>
+    <h2>cofee</h2>
 
     <p style="font-size:1.5rem:color:rgba(256,0,0,5);">
       Karangan naqeeb handsome
@@ -26,12 +26,13 @@ Mauris et feugiat sapien. Aliquam erat ligula, condimentum id velit at, porta su
 item 1
 item 2
 item 3
-item 4</p>
+item 4
+</p>
 
     <h1>A Heading</h1>
     <h2>A Sub Heading</h2>
 
-    <p>Jangan menyakiti adik sendiri .</p>
+    <p>Cofee .</p>
 
     <ol>
       <li>item 1</li>
