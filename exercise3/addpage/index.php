@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Styles</title>
+  </head>
+
+  <body>
+    font-size
+    <h1>Ez Gaming</h1>
+    <h2>Ez Gaming</h2>
+
+    <p style="font-size:1.5rem:color:rgba(256,0,0,5);">
+      Karangan naqeeb handsome
+    </p>
+
+    <p>pada pendapat saya saya handsome</p>
+
+    <h1>A Heading</h1>
+    <h2>A Sub Heading</h2>
+
+    <p>Jangan menyakiti adik sendiri .</p>
+
+    <ol>
+      <li>item 1</li>
+      <li>item 2</li>
+      <li>item 3</li>
+      <li>item 4</li>
+    </ol>
+  </body>
+</html>
